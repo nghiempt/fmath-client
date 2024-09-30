@@ -4,9 +4,9 @@ const nextConfig = {
         remotePatterns: [
             {
                 protocol: 'https',
-                hostname: '',
+                hostname: 'cdn-icons-png.flaticon.com',
                 port: '',
-                pathname: '/api/v1/image/**',
+                pathname: '/128/**',
             },
         ],
     },
